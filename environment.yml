@@ -1,0 +1,13 @@
+name: sr_box_model
+dependencies:
+  - python=3.12
+  - pymc>=5
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - arviz
+  - tqdm
+  - numba
+  - ipywidgets
