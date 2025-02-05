@@ -23,7 +23,7 @@ N_modern = 1.25e17       # mols, initial Sr reservoir, modern
 rSr_ton = 0.70625    # Tonian seawater isotopic ratio
 rSr0 = 0.707  # initial
 rSr_ri = 0.7092     # isotopic ratio for riverine input
-rSr_ht = 0.7023    # isotopic ratio for hydrothermal input
+rSr_ht = 0.703      # isotopic ratio for hydrothermal input
 rSr_di = rSr_ton    # isotopic ratio for diagenetic inputs
 
 F_ri_modern = 4e10    # mol/yr
